@@ -5,7 +5,7 @@ const Home = () => (
   <div>
     <h1>That new site</h1>
 
-    asd
+    asds
 
     <style jsx>{`
       :global(html,body) {
