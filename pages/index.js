@@ -5,7 +5,7 @@ const Home = () => (
   <div>
     <h1>That new site</h1>
 
-    asds
+    Тестовый сайт на ReactJS
 
     <style jsx>{`
       :global(html,body) {
